@@ -33,13 +33,13 @@ Textbox/Messagebox Instructions:
 >6. DELETE Temp Text when Done Reading and Start Writing!
 
 ### Initial
-![png](pics/init.png)
+![png](screenshots/init.png)
 
 ### Uploading
-![png](pics/uploading.png)
+![png](screenshots/uploading.png)
 
 ### Uploaded
-![png](pics/uploaded.png)
+![png](screenshots/uploaded.png)
 
 ### Written Subject & Message
-![png](pics/written.png)
+![png](screenshots/written.png)
