@@ -9,6 +9,7 @@ source: www.linkedin.com/pulse/how-easily-export-your-connections-much-more-new-
 5. Wait for Archive Request to complete pending
 6. Receive LinkedIn link via Email Open and Click “Download Archive”
 7. Unzip folder for “Connections.CSV” file
+8. Delete any empty colunms (Email row require opt-in from users)
 
 ## MassMsgGen Instructions
 
