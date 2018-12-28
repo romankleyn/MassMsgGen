@@ -12,7 +12,6 @@ source: www.linkedin.com/pulse/how-easily-export-your-connections-much-more-new-
 8. Delete any empty columns (Email row require opt-in from users)
 
 ## MassMsgGen Instructions
-
 MassMsgGen Technical Info:
 >1. Python based Solution for creating Mass Messages Contact List in *.CSV. 
 >2. Both for Mac & Windows executable files available
