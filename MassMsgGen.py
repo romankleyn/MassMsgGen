@@ -1,6 +1,7 @@
 #Get rid of flickring when maxmize || gone with py installer
 #Make buttons nicer || cosmetic
 #make variable window sizes and textbox || Minor
+#**dict || add
 #Written By: Roman Kleyn || V1 Completed Nov 20, 2018
 sub_text = '>>>Subject Text Goes Here, Leave as is if Subject not needed to exclude Subject column.'
 txt = '''>>>Instructions/Temp Text:\n \
